@@ -1,2 +1,2 @@
-# samlForm
+# SsoForm
 SAML and OIDC Form
